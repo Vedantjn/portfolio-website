@@ -232,6 +232,24 @@ export const projects = [
     github: "https://github.com/Vedantjn/Live-Covid-Tracker",
     webapp: "https://dapper-jalebi-80ebc1.netlify.app/",
   },
+  {
+    id: 3,
+    title: "Hospital Management System:",
+    date: "April 2024",
+    description:
+      "Patients seamlessly book appointments with their preferred doctors, while
+administrators manage schedules and appointments from a dedicated dashboard.",
+    image:
+      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+    tags: [
+      "ReactJS",
+      "NodeJS",
+      "MongoDB"
+    ],
+    category: "web app",
+    github: "https://github.com/Vedantjn/hospital-management-system",
+    webapp: "https://admin-hospital-mgmt-system-vedantjn.netlify.app/",
+  },
 ];
 
 export const TimeLineData = [
