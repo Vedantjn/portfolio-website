@@ -237,8 +237,7 @@ export const projects = [
     title: "Hospital Management System:",
     date: "April 2024",
     description:
-      "Patients seamlessly book appointments with their preferred doctors, while
-administrators manage schedules and appointments from a dedicated dashboard.",
+      "Patients seamlessly book appointments with their preferred doctors, while administrators manage schedules and appointments from a dedicated dashboard.",
     image:
       "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
     tags: [
