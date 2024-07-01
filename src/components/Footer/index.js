@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
+import XIcon from '@mui/icons-material/X';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import { Bio } from '../../data/constants';
@@ -99,7 +100,9 @@ function Footer() {
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.x} target="display"><XIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
+  
         </SocialMediaIcons>
         <Copyright>
           &copy; {date} Vedant Jain. All rights reserved.
