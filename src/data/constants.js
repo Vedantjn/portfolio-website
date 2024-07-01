@@ -140,9 +140,9 @@ export const education = [
     id: 0,
     img: "https://img.collegepravesh.com/2017/05/IET-DAVV-Indore-Logo.png",
     school: "Institute of Engineering and Technology, DAVV, Indore",
-    date: "June 2020 - May 2024",
-    grade: "8 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Institute of Engineering and Technology, DAVV, Indore. I have completed 4 semesters and have a CGPA of 8. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
+    date: "June 2020 - June 2024",
+    grade: "8.1 CGPA",
+    desc: "I completed Bachelor's degree in Computer Science and Engineering at Institute of Engineering and Technology, DAVV, Indore. I took courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
