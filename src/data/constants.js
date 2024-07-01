@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Vedantjn",
   resume:
-    "https://drive.google.com/file/d/1bH41oL04mn500a2rh91O-cWhV3sWN-pQ/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1ie4iOSIMgjMqZor9rVxFVLLPOdOXFiNu?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vedant-jain-192915194/",
   twitter: "https://twitter.com/VedantJn"
 };
@@ -71,6 +71,11 @@ export const skills = [
   {
     title: "Others",
     skills: [
+      {
+        name: "Solidity",
+        image:
+          "https://www.google.com/imgres?q=solidity%20image&imgurl=https%3A%2F%2Fgydocument.readthedocs.io%2Fen%2Flatest%2F_images%2Flogo.svg&imgrefurl=https%3A%2F%2Fgydocument.readthedocs.io%2Fen%2Flatest%2F&docid=0UnOu7dNgRcoqM&tbnid=LcAYf9aqQ7ahoM&vet=12ahUKEwig7s6s3YWHAxWyTWwGHb2aBDEQM3oECBkQAA..i&w=1300&h=1300&hcb=2&ved=2ahUKEwig7s6s3YWHAxWyTWwGHb2aBDEQM3oECBkQAA",
+      },
       {
         name: "Git",
         image:
