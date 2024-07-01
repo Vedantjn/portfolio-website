@@ -120,11 +120,13 @@ const SkillImage = styled.img`
 
 
 const Skills = () => {
+    const currentYear = new Date().getFullYear();
+    const noOfYears = currentYear-2020;
   return (
     <Container id="skills">
       <Wrapper>
         <Title>Skills</Title>
-        <Desc>Here are some of my skills on which I have been working on for the past 2 years.
+        <Desc>Here are some of my skills on which I have been working on for the past {noOfYears} years.
         </Desc>
         <SkillsContainer>
           {skills.map((skill) => (
