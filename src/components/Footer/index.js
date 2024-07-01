@@ -85,6 +85,7 @@ const Copyright = styled.p`
 `;
 
 function Footer() {
+  const date = new Date().getFullYear();
   return (
     <FooterContainer>
       <FooterWrapper>
@@ -103,7 +104,7 @@ function Footer() {
           // <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; new Date().getFullYear() Vedant Jain. All rights reserved.
+          &copy; {date} Vedant Jain. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
