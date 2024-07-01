@@ -103,7 +103,7 @@ function Footer() {
           // <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Vedant Jain. All rights reserved.
+          &copy; new Date().getFullYear() Vedant Jain. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
